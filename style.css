@@ -21,6 +21,7 @@ h2 {
 
 p {
   color: #575f7d;
+  text-align: center;
 }
 
 a {
@@ -91,4 +92,6 @@ ul {
   .container {
     width: 700px;
   }
+
+
 
